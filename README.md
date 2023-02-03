@@ -22,7 +22,7 @@ I am constantly learning and experimenting with new technologies to find the bes
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="Rijon1810" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rijon1810&show_icons=true&theme=gotham" alt="Rijon1810" />
 
 ## Contact
 Feel free to connect with me on [LinkedIn :necktie:](https://www.linkedin.com/in/rijon1810/) or drop me a message at [rijon1810@email.com :envelope:](mailto:rijon1810@email.com)
