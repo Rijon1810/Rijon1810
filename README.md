@@ -20,6 +20,10 @@ I am constantly learning and experimenting with new technologies to find the bes
 - Full-Stack Engineer at [ACME Inc.](https://www.acmeinc.com) - Developed and maintained multiple projects for clients in various industries, including e-commerce and finance.
 - Web Developer at [XYZ Corp.](https://www.xyzcorp.com) - Worked on various projects, including the development of a custom CMS system.
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="Rijon1810" />
+
 ## Contact
 Feel free to connect with me on [LinkedIn :necktie:](https://www.linkedin.com/in/rijon1810/) or drop me a message at [rijon1810@email.com :envelope:](mailto:rijon1810@email.com)
 
