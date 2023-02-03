@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! I'm Rijon1810
 
-<!--
-**Rijon1810/Rijon1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer, with a passion for solving problems and building scalable applications.
 
-Here are some ideas to get you started:
+## Skills
+- HTML/CSS
+- JavaScript
+- ReactJS
+- NodeJS
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project 1](https://github.com/Rijon1810/project-1)
+- [Project 2](https://github.com/Rijon1810/project-2)
+
+## Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rijon1810/) or drop me a message at [rijon1810@email.com](mailto:rijon1810@email.com)
+
+## Follow Me
+- [GitHub](https://github.com/Rijon1810)
+- [Twitter](https://twitter.com/rijon1810)
+
+Thanks for visiting my page!
