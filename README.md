@@ -13,12 +13,14 @@ I am constantly learning and experimenting with new technologies to find the bes
 - Git :octocat:
 
 ## Projects
-- [E-commerce Website](https://github.com/Rijon1810/e-commerce-website) - A full-fledged e-commerce website built with ReactJS, NodeJS, and MongoDB.
-- [Weather App](https://github.com/Rijon1810/weather-app) - A simple weather app that displays the current weather for a given location.
+- [MethodMelody](https://methodmelody.com/) - MethodMelody is the first streaming platform of Bangladesh that gives you the opportunity to learn your desired musical instrument built with ReactJS, NodeJS, and MongoDB.
+- [Leclair](https://leclair.co.jp/) - A full-fledged e-commerce website built with ReactJS.
+- [Jatri Rental](https://ticket.jatri.co/) - Jatri is a public transport journey planner, digital ticketing and mobility marketplace, driving productivity by helping drivers to offer reliable transport build with NuxtJS, NodeJS, TypeScript and MongodDB.
 
 ## Professional Experience
-- Full-Stack Engineer at [ACME Inc.](https://www.acmeinc.com) - Developed and maintained multiple projects for clients in various industries, including e-commerce and finance.
-- Web Developer at [XYZ Corp.](https://www.xyzcorp.com) - Worked on various projects, including the development of a custom CMS system.
+- SOFTWARE ENGINEER at [Jatri Service Limited]([https://www.acmeinc.com](https://www.jatri.co/)) - Developed and maintained multiple projects for to B2B and B2C clients.
+- JR SOFTWARE ENGINEER at [ShellBeeHaken Limited](https://shellbeehaken.com/) - Worked on various projects, including the development of e-commerce.
+- SOFTWARE DEVELOPER at [MethodMelody](https://methodmelody.com/) - Worked on a e-learning site build with MERN Stack.
 
 📈 my github stats
 
@@ -28,7 +30,7 @@ I am constantly learning and experimenting with new technologies to find the bes
 Feel free to connect with me on [LinkedIn :necktie:](https://www.linkedin.com/in/rijon1810/) or drop me a message at [rijon1810@email.com :envelope:](mailto:rijon1810@email.com)
 
 ## Follow Me
-- [GitHub :octocat:](https://github.com/Rijon1810)
-- [Twitter :bird:](https://twitter.com/rijon1810)
+- [Instagram :octocat:](https://www.instagram.com/rokibulhasanrijon/)
+- [Facebook :bird:](https://www.facebook.com/rokibulhasan.rijon.18/)
 
 Thanks for visiting my page! :smile:
