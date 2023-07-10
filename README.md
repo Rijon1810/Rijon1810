@@ -20,7 +20,7 @@ I am constantly learning and experimenting with new technologies to find the bes
 ## Professional Experience
 - SOFTWARE ENGINEER at [Jatri Service Limited]([https://www.acmeinc.com](https://www.jatri.co/)) - Developed and maintained multiple projects for to B2B and B2C clients.
 - SOFTWARE ENGINEER at [ShellBeeHaken Limited](https://shellbeehaken.com/) - Worked on various projects, including the development of e-commerce.
-- SOFTWARE DEVELOPER at [MethodMelody](https://methodmelody.com/) - Worked on a e-learning site build with MERN Stack.
+- SOFTWARE DEVELOPER at [Weabers](https://weabers.com/) - Worked on a e-learning site build with MERN Stack.
 
 📈 my github stats
 
