@@ -18,7 +18,7 @@ I am constantly learning and experimenting with new technologies to find the bes
 - [Jatri Rental](https://ticket.jatri.co/) - Jatri is a public transport journey planner, digital ticketing and mobility marketplace, driving productivity by helping drivers to offer reliable transport build with NuxtJS, NodeJS, TypeScript and MongodDB.
 
 ## Professional Experience
-- SOFTWARE ENGINEER at [Jatri Service Limited]([https://www.acmeinc.com](https://www.jatri.co/)) - Developed and maintained multiple projects for to B2B and B2C clients.
+- SOFTWARE ENGINEER at [Jatri Service Limited](https://www.jatri.co/) - Developed and maintained multiple projects for to B2B and B2C clients.
 - SOFTWARE ENGINEER at [ShellBeeHaken Limited](https://shellbeehaken.com/) - Worked on various projects, including the development of e-commerce.
 - SOFTWARE DEVELOPER at [Weabers](https://weabers.com/) - Worked on a e-learning site build with MERN Stack.
 
