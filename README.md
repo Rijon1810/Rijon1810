@@ -7,7 +7,7 @@ As a passionate and proficient 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐄𝐧𝐠𝐢
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞:
 - 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: React, Next.js, Vue, Nuxt, Redux, Pinia, Vuex, HTML5, CSS3, SCSS, Bootstrap, Tailwind.
 - 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Express.js, MongoDB, SQL.
-- 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Flutter
+- 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Flutter, React Native
 
 𝐊𝐞𝐲 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬:
 - Successfully led a team of 10 software engineering interns, fostering growth and community contributions.
