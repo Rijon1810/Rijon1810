@@ -1,8 +1,23 @@
 # Hi there! I'm Rokibul Hasan Rijon :wave:
 
-I am a full-stack software engineer with a passion for building high-quality and scalable web applications. I am an expert in JavaScript, ReactJS, and NodeJS and have experience working with MongoDB and other databases. 
+𝐌𝐝. 𝐑𝐨𝐤𝐢𝐛𝐮𝐥 𝐇𝐚𝐬𝐚𝐧 | 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐅𝐨𝐜𝐮𝐬𝐞𝐝 𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐓𝐨𝐩-𝐫𝐚𝐭𝐞𝐝 𝐏𝐥𝐮𝐬 𝐨𝐧 𝐔𝐩𝐰𝐨𝐫𝐤
 
-I am constantly learning and experimenting with new technologies to find the best solutions for my clients. I take pride in my ability to solve complex problems and deliver exceptional results.
+As a passionate and proficient 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with a background in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, I bring over 𝟒+ 𝐲𝐞𝐚𝐫𝐬 of comprehensive experience in full-stack development. Currently, I contribute to the innovative team at 𝐄𝐝𝐮𝐜𝐡𝐚𝐢𝐧, a Tech-star company, where I develop scalable and efficient web applications using modern frontend technologies.
+
+𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞:
+- 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: React, Next.js, Vue, Nuxt, Redux, Pinia, Vuex, HTML5, CSS3, SCSS, Bootstrap, Tailwind.
+- 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Express.js, MongoDB, SQL.
+- 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Flutter
+
+𝐊𝐞𝐲 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬:
+- Successfully led a team of 10 software engineering interns, fostering growth and community contributions.
+- Developed high-traffic websites including Leclair, Jatri, Talk Hiring, Educhain, and Method Melody.
+- Top-rated freelancer on Upwork, recognized for delivering high-quality software solutions.
+
+𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐕𝐚𝐥𝐮𝐞𝐬:
+I am dedicated to creating user-centric, efficient, and scalable web applications. My leadership experience and collaborative approach enable me to contribute effectively to both team and individual projects.
+
+I am excited about the possibility of contributing to innovative projects and connecting with professionals who share a passion for technology and growth.
 
 ## Skills
 - HTML/CSS :nail_care:
