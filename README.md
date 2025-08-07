@@ -1,6 +1,6 @@
 # Hi there! I'm Rokibul Hasan Rijon :wave:
 
-𝐌𝐝. 𝐑𝐨𝐤𝐢𝐛𝐮𝐥 𝐇𝐚𝐬𝐚𝐧 | 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐅𝐨𝐜𝐮𝐬𝐞𝐝 𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐓𝐨𝐩-𝐫𝐚𝐭𝐞𝐝 𝐏𝐥𝐮𝐬 𝐨𝐧 𝐔𝐩𝐰𝐨𝐫𝐤
+𝐌𝐝. 𝐑𝐨𝐤𝐢𝐛𝐮𝐥 𝐇𝐚𝐬𝐚𝐧 | 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐅𝐨𝐜𝐮𝐬𝐞𝐝 𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
 As a passionate and proficient 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with a background in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, I bring over 𝟒+ 𝐲𝐞𝐚𝐫𝐬 of comprehensive experience in full-stack development. Currently, I contribute to the innovative team at 𝐄𝐝𝐮𝐜𝐡𝐚𝐢𝐧, a Tech-star company, where I develop scalable and efficient web applications using modern frontend technologies.
 
@@ -12,7 +12,7 @@ As a passionate and proficient 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐄𝐧𝐠𝐢
 𝐊𝐞𝐲 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬:
 - Successfully led a team of 10 software engineering interns, fostering growth and community contributions.
 - Developed high-traffic websites including Leclair, Jatri, Talk Hiring, Educhain, and Method Melody.
-- Top-rated freelancer on Upwork, recognized for delivering high-quality software solutions.
+- Recognized for delivering high-quality software solutions.
 
 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐕𝐚𝐥𝐮𝐞𝐬:
 I am dedicated to creating user-centric, efficient, and scalable web applications. My leadership experience and collaborative approach enable me to contribute effectively to both team and individual projects.
@@ -34,7 +34,7 @@ I am excited about the possibility of contributing to innovative projects and co
 
 ## Professional Experience
 - Senior Frontend Engineer at [Educhain](https://educhain.io/) - Developed and maintained multiple projects for to B2B and B2C clients.
-- Senior Frontend Engineer at [TalkHiring](https://gethirerewards.com/) - Worked on various projects, including the development of e-commerce.
+- Senior Fullstack Engineer at [TalkHiring](https://gethirerewards.com/) - Worked on various projects, including the development of e-commerce.
 - Frontend Engineer at [Jatri Service Limited](https://www.jatri.co/) - Developed and maintained multiple projects for to B2B and B2C clients.
 - Software Engineer at [ShellBeeHaken Limited](https://shellbeehaken.com/) - Worked on various projects, including the development of e-commerce.
 - Software Developer at [Weabers](https://weabers.com/) - Worked on a e-learning site build with MERN Stack.
